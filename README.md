@@ -13,12 +13,8 @@
   <img style='height: 30px;' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
 </div>
 
-<h3>📚 Libraries</h3>
+<h3>📖 Libraries</h3>
 <p>
   <img style='height: 30px;' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
 </p>
 
-<h3>📚 Frameworks</h3>
-<p>
-  <img style='height: 30px;' src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
-</p>
