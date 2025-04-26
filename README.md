@@ -2,7 +2,7 @@
 <p align='center'>👨‍💻 Software Developer | 📚 Platzi Student</p>
 
 <div align='center'>
-  <a href="https://www.linkedin.com/in/elmer-acu%C3%B1a-alarc%C3%B3n-328212185/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/elmer-acu%C3%B1a-alarc%C3%B3n-328212185/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <h3>👨‍💻 Languages of programming</h3>
