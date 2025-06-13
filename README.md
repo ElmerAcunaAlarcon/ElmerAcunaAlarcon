@@ -16,8 +16,11 @@
   
 </div>
 
-<h3>📖 Libraries</h3>
+<h3>📖 Frameworks</h3>
 <p>
   <img style='height: 30px;' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img style='height: 30px;' src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>&nbsp;&nbsp;
+  <img style='height: 30px;' src="https://img.shields.io/badge/react_native-%2320232A.svg?&style=for-the-badge&logo=react-native&logoColor=61DAFB"/>&nbsp;&nbsp;
+  <img style='height: 30px;' src="https://img.shields.io/badge/WordPress-%23146496.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
